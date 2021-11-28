@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Elemento Cocoa
+Comment=GTK Theme
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=Elemento Cocoa
+MetacityTheme=Elemento Cocoa
+IconTheme=Luna-Light
+CursorTheme=Luna
+CursorSize=24
